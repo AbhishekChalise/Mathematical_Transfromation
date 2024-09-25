@@ -3,11 +3,11 @@ There are two types of Data Distribution one Normal and another Non-Normal Distr
 Normal Distribution := Bell Curve
 Non Normal-Distribution := Skewed, Uniform, HeavyTailed, PoissonsDistribution, Cauchy Distribution.
 Why to convert?
-ML model = Linear-regression , Non-linear regression. Only We can use this if this data is in the Normal Distribution.
+ML Model = Linear-regression , Non-linear regression. Only We can use this if this data is in the Normal Distribution.
 Non-Normal:
 1.Skewed distribution : a.Left Distribution(Negative Distribution) and b.Right Distribution(Positive Distributoin)
-2.uniform distribution : (Same for all values)
-# uniform distribution cannot be converted into normal distribution or any other distribution.
+2.Uniform distribution : (Same for all values)
+# Uniform Distribution cannot be converted into Normal Distribution or any other Distribution.
 uniform distribution has equal probability distribution so, uniform distribution we cannot do anything.
 
 
